@@ -71,8 +71,20 @@ background-position: bottom;
   top: 20%;
 
 }
+    .projectshero-content{
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  height: 60px;
+  position: relative;
+  top: 20%;
+
+}
 
 .hero-content h1{
+  font-size: 100px;
+}
+    .projectshero-content h1{
   font-size: 100px;
 }
 
@@ -81,8 +93,19 @@ background-position: bottom;
   width: 60%;
   margin: 0 auto;
 }
-
+.projectshero-content p{
+  font-size: 30px;
+  width: 60%;
+  margin: 0 auto;
+}
 .hero-content hr{
+  width: 60%;
+  margin: 0 auto;
+  height: 4px;
+  border-color: #ffc85c;
+  background-color: #ffc85c;
+}
+.projectshero-content hr{
   width: 60%;
   margin: 0 auto;
   height: 4px;
